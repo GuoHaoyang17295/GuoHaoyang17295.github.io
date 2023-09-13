@@ -5,3 +5,14 @@
 ```python
 print("Hello, World!")
 ```
+ $\{X-Y\}\cup \{V_{\alpha}\}_{\alpha\in J}$
+ 
+ $
+ \{X-Y\}\cup \{V_{\alpha}\}_{\alpha\in J}
+ $
+
+ $$\{X-Y\}\cup \{V_{\alpha}\}_{\alpha\in J}$$
+
+ $$
+ \{X-Y\}\cup \{V_{\alpha}\}_{\alpha\in J}
+ $$
