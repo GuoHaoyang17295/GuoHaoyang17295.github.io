@@ -5,21 +5,3 @@
 ```python
 print("Hello, World!")
 ```
-```ad-theorem
-title: In a topological space
-Let $(X, \tau)$ be a topological space and $Y \subseteq X$ with a subspace topology.
-If $X$ is compact and $Y$ is closed, then $Y$ is compact.
-```
-
-
- $\{X-Y\}\cup \{V_{\alpha}\}_{\alpha\in J}$
-
- $
- \{X-Y\}\cup \{V_{\alpha}\}_{\alpha\in J}
- $
-
- $$\{X-Y\}\cup \{V_{\alpha}\}_{\alpha\in J}$$
-
- $$
- \{X-Y\}\cup \{V_{\alpha}\}_{\alpha\in J}
- $$
