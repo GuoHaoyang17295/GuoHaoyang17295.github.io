@@ -1,12 +1,27 @@
 - 前言
     - [简介](zh-cn/README.md)
     
-- C++
-    - [基础](zh-cn/C++/base.md)
-    - [函数](zh-cn/C++/func.md)
-    - [对象](zh-cn/C++/object.md)
+- 数学
+    - [集合与逻辑](zh-cn/Math/base.md)
+    - [拓扑](zh-cn/Math/func.md)
+    - [代数](zh-cn/Math/object.md)
+    - [分析](zh-cn/Math/111.md)
+    - [几何](zh-cn/Math/222.md)
+- 物理
+    - [aa](zh-cn/Math/111.md)
+- 化学
+    - [bb](zh-cn/Math/222.md)
+- 天文地理
+    - [天体物理](zh-cn/Math/111.md)
+    - [天文观测](zh-cn/Math/222.md)
+    - [天文摄影](zh-cn/Math/111.md)
+- 生命科学
+    - [生物化学](zh-cn/Python/base.md)
+    - [生态学](zh-cn/Python/func.md)
+    - [遗传学](zh-cn/Python/object.md)
 
-- Python
-    - [基础](zh-cn/Python/base.md)
-    - [函数](zh-cn/Python/func.md)
-    - [对象](zh-cn/Python/object.md)
+- 随笔杂记
+    - [2023.9.16](zh-cn/Math/111.md)
+    - [tbd](zh-cn/Math/111.md)
+- 出行
+    - [ff](zh-cn/Math/111.md)
