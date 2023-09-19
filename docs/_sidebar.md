@@ -1,27 +1,29 @@
 - 前言
-    - [简介](zh-cn/README.md)
+    - [简介](si/README.md)
     
 - 数学
-    - [集合与逻辑](zh-cn/Math/base.md)
-    - [拓扑](zh-cn/Math/func.md)
-    - [代数](zh-cn/Math/object.md)
-    - [分析](zh-cn/Math/111.md)
-    - [几何](zh-cn/Math/222.md)
+    - [集合与逻辑](si/Math/base.md)
+    - [范畴]
+    - [拓扑](si/Math/func.md)
+    - [代数](si/Math/object.md)
+    - [分析](si/Math/111.md)
+    - [几何](si/Math/222.md)
 - 物理
-    - [aa](zh-cn/Math/111.md)
+    - [aa](si/Math/111.md)w
 - 化学
-    - [bb](zh-cn/Math/222.md)
+    - [bb](si/Math/222.md
+- 密码
 - 天文地理
-    - [天体物理](zh-cn/Math/111.md)
-    - [天文观测](zh-cn/Math/222.md)
-    - [天文摄影](zh-cn/Math/111.md)
+    - [天体物理](si/Math/111.md)
+    - [天文观测](si/Math/222.md)
+    - [天文摄影](si/Math/111.md)
 - 生命科学
-    - [生物化学](zh-cn/Python/base.md)
-    - [生态学](zh-cn/Python/func.md)
-    - [遗传学](zh-cn/Python/object.md)
+    - [生物化学](si/Python/base.md)
+    - [生态学](si/Python/func.md)
+    - [遗传学](si/Python/object.md)
 
 - 随笔杂记
-    - [2023.9.16](zh-cn/Math/111.md)
-    - [tbd](zh-cn/Math/111.md)
+    - [2023.9.18](si/recap/230918.md)
+    - [tbd](si/Math/111.md)
 - 出行
-    - [ff](zh-cn/Math/111.md)
+    - [ff](si/Math/111.md)
