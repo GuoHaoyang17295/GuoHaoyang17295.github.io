@@ -3,15 +3,15 @@
     
 - 数学
     - [集合与逻辑](si/Math/base.md)
-    - [范畴]
+    - [范畴](si/Math/111.md)
     - [拓扑](si/Math/func.md)
     - [代数](si/Math/object.md)
     - [分析](si/Math/111.md)
     - [几何](si/Math/222.md)
 - 物理
-    - [aa](si/Math/111.md)w
+    - [aa](si/Math/111.md)
 - 化学
-    - [bb](si/Math/222.md
+    - [bb](si/Math/222.md)
 - 密码
 - 天文地理
     - [天体物理](si/Math/111.md)
