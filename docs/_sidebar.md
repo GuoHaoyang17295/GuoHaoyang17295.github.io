@@ -23,7 +23,7 @@
     - [遗传学](si/Python/object.md)
 
 - 随笔杂记
-    - [2023.9.18](si/recap/230918.md)
-    - [tbd](si/Math/111.md)
+    - [2023.09.18](si/recap/230918.md)
+    - [2023.09.20](si/recap/230920.md)
 - 出行
     - [ff](si/Math/111.md)
