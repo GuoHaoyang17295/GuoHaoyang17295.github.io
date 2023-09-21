@@ -1,5 +1,5 @@
 - [主页](/)
 - Translations
-    - [:cn: 中文](/si/)
-    - [:us: English](/en-us/)
+    - [:full_moon_with_face: 简中](/si/)
+    - [:new_moon_with_face: English](/en/)
     
